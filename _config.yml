@@ -1,6 +1,6 @@
 title: Lucas Tavares Brito
 url: "https://lucastbrito.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
