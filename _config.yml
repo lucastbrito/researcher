@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Lucas Tavares Brito
+url: "https://lucastbrito.com"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -7,18 +7,14 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
-
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Atuação Profissional"
+   link: "profissional"
+ - name: "Educação"
+   link: "educacao"
+ - name: "Projetos Executados"
+   link: "projetos"
